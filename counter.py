@@ -1,4 +1,5 @@
 #1
+print('Counter')
 class counter:
     count=0
     def __init__(self):
